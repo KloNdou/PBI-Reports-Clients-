@@ -8,7 +8,7 @@ Led a 5-year performance review for an online Shopify store, building a structur
 ### Key Contributions & Results:
    * Analysed five years of sales, returns, and customer data to pinpoint high and low-performing years, uncovering a peak in 2022 followed by a two-year decline.
    * Diagnosed the decline through product category, customer retention, and return rate analysis; recommended targeted offer campaigns that delivered an additional £15K monthly sales uplift.
-   * Identified that return rates, although lower in volume, were increasing in percentage terms due to unrealistic delivery expectations — proposed website updates and shipping time transparency to address this.
+   * Identified that return rates, although lower in volume, were increasing in percentage terms due to unrealistic delivery expectations. Proposed website updates and shipping time transparency to address this.
    * Detected a sharp drop in retention after the second purchase and proposed a tiered loyalty programme for customers with 3+ purchases.
    * Delivered a fully interactive Power BI report with visualisations on revenue by product, YoY growth, first-time vs. returning customers, AOV trends, product share over time, and geo-performance analysis.
 
